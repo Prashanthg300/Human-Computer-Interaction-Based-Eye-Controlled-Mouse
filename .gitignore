@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+__pycache__
+
+# Ignore built artifacts and distributions
+build/
+dist/
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled executables (if any)
+*.exe
+
+# Ignore image files
+images/
+
+# Ignore generated files by pyinstaller
+mouse-cursor-control.spec
+
+Lib/
+Scripts/
