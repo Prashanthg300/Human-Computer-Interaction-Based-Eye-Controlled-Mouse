@@ -1,7 +1,5 @@
 # Human Computer Interaction Based Eye Controlled Mouse
 
-![Project Banner](Screenshots/1%20Home%20Page.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Aim and Objective](#aim-and-objective)
@@ -82,32 +80,26 @@ Once the application is running, follow the on-screen instructions to calibrate 
 
 Below are some screenshots demonstrating the key functionalities of the project:
 
-- **Home Page**
-  ![Home Page](Screenshots/1%20Home%20Page.png)
-
-- **Detecting Face**
-  ![Detecting Face](Screenshots/2%20Detecting%20Face.png)
-
 - **Activating Mouse**
-  ![Activating Mouse](Screenshots/3%20Activating%20Mouse.png)
+  ![Activating Mouse](Screenshots/Activating%20mouse.png)
 
 - **Mapped to Mouse Cursor**
-  ![Mapped to Mouse Cursor](Screenshots/4%20Mapped%20to%20Mouse%20Cursor.png)
+  ![Mapped to Mouse Cursor](Screenshots/Activated%20mouse.png)
 
 - **Moving Mouse Pointer Right**
-  ![Moving Mouse Pointer Right](Screenshots/5%20Moving%20Mouse%20Pointer%20Right.png)
+  ![Moving Mouse Pointer Right](Screenshots/Right%20cursor%20movement.png)
 
 - **Left Click**
-  ![Left Click](Screenshots/6%20Left%20Click.png)
+  ![Left Click](Screenshots/Left%20click.png)
 
 - **Right Click**
-  ![Right Click](Screenshots/7%20Right%20Click.png)
+  ![Right Click](Screenshots/Right%20click.png)
 
 ## Contributors
-- **Prashanth G** (20QK1A0548)
-- **Kodi Raju** (20QK1A0526)
-- **P. Laxmi Sruthi** (20QK1A0545)
-- **T. Pranitha** (20QK1A0562)
+- **Prashanth G** 
+- **Kodi Raju** 
+- **P. Laxmi Sruthi** 
+- **T. Pranitha** 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
