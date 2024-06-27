@@ -60,7 +60,7 @@ To install and run the project, follow these steps:
 2. Create a virtual environment and activate it:
     ```bash
     python -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
+    source env/bin/activate  # On Windows, use `.\env\Scripts\activate`
     ```
 
 3. Install the required packages:
