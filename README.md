@@ -70,7 +70,7 @@ To install and run the project, follow these steps:
 
 4. Run the application:
     ```bash
-    python main.py
+    python mouse-cursor-control.py
     ```
 
 ## Usage
@@ -93,7 +93,7 @@ Below are some screenshots demonstrating the key functionalities of the project:
   ![Left Click](Screenshots/Left%20click.png)
 
 - **Right Click**
-  ![Right Click](Screenshots/Right%20click.png)
+  ![Right Click](Screenshots/Right%20click.jpg)
 
 ## Contributors
 - **Prashanth G** 
